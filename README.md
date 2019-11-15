@@ -60,6 +60,6 @@ please run this in a Unix/Linux system:
 
     pwsh clear_md_keep.ps1
 
-please run this in a windows command prompt or right click and select run via PowerShell:
+please run this in Powershell while in the root folder of this repository in a Windows system:
 
-    powershell.exe -noexit &'clear_md_keep.ps1'
+    powershell -ExecutionPolicy ByPass -File .\clear_md_keep.ps1
