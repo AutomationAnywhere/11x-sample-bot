@@ -25,7 +25,11 @@ This folder is where all atmx files should reside at its root.
 
 ## Licensing and Code Protection
 ### Licensing
-In order to enable License Management in your paid 11.3.3 bot or Digital Worker, please include the unique Global ID in the License Info.txt file and the file should reside under the Bot Root Folder. To request Global ID go to: www.automationanywhere.com/botstore-license 
+In order to enable License Management in your paid 11.3.3 bot or Digital Worker, please include the unique Global ID in the License Info.txt file and the file should reside under the Bot Root Folder. To request Global ID go to: www.automationanywhere.com/botstore-license
+
+### Access Code instructions for customers
+Step by Step Guide for Customers
+https://botstore.automationanywhere.com/inputting-your-access-code/
 
 ### Protection
 In order to enable asset protection for your paid 11.3.3 bot or Digital Worker, include the list of ATMX and MBOT files in the ATMX Protection Info.txt and MBOT Protection Info.txt respectively. 
