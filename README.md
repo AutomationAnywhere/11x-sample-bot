@@ -60,6 +60,6 @@ please run this in a Unix/Linux system:
 
     pwsh clear_md_keep.ps1
 
-please run this in Powershell while in the root folder of this repository in a Windows system:
+please run this in Powershell while in the root folder of this repository in a Windows system (please note that this action will remove LICENSE file, if you would like to keep MIT License, you will need to recreate after the operation.):
 
     powershell -ExecutionPolicy ByPass -File .\clear_md_keep.ps1
